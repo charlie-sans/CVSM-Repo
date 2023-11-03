@@ -1,2 +1,4 @@
 # CVSM-Repo
-hosts the downloads for the cvsm co,piler
+Welcome to the official Releases Repo and Bug tracker for Cubescript!
+
+please report issues here!
